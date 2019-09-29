@@ -4,8 +4,8 @@ seo-description: Adobe Experience Cloud 라이브러리에 내장된 기본 이�
 seo-title: 이미지 편집
 solution: Experience Manager
 title: 이미지 편집
-uuid: 0 FC 38989-FCCE -4177-95 AF -2488 EF 0 A 3 C 5 C
-translation-type: tm+mt
+uuid: 0fc38989-fcce-4177-95af-2488ef0a3c5c
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
