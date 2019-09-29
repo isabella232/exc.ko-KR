@@ -4,8 +4,8 @@ seo-description: Adobe Experience Cloud 라이브러리에서 자산을 필터�
 seo-title: 자산 필터링
 solution: Experience Manager
 title: 자산 필터링
-uuid: 8 A 707 D 6 D -1905-4934-B 35 B -034 A 337 B 17 F 7
-translation-type: tm+mt
+uuid: 8a707d6d-1905-4934-b35b-034a337b17f7
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
