@@ -4,8 +4,8 @@ seo-description: Dropbox 또는 Creative Cloud에서 파일을 가져와 devicce
 seo-title: 파일 가져오기 및 업로드
 solution: Experience Manager
 title: 파일 가져오기 및 업로드
-uuid: 2 ACE 4 C 62-7 DF 9-4444-824 D -078 FC 87 D 9150
-translation-type: tm+mt
+uuid: 2ace4c62-7df9-4444-824d-078fc87d9150
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
