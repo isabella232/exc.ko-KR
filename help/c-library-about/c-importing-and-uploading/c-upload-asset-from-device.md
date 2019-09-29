@@ -1,23 +1,23 @@
 ---
-description: 디바이스에서 에셋을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
-seo-description: 디바이스에서 에셋을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
-seo-title: 장치에서 에셋 업로드
+description: 장치에서 자산을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
+seo-description: 장치에서 자산을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
+seo-title: 장치에서 자산 업로드
 solution: Experience Manager
-title: 장치에서 에셋 업로드
-uuid: 77 b 608 b 3-b 588-4 eec-a 2 f 9-a 3 e 4 d 2 e 6 d 44 f
-translation-type: tm+mt
+title: 장치에서 자산 업로드
+uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
 
 
-# 장치에서 에셋 업로드{#upload-asset-from-device}
+# 장치에서 자산 업로드{#upload-asset-from-device}
 
-디바이스에서 에셋을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
+장치에서 자산을 업로드하여 Adobe Experience Cloud 라이브러리에서 관리합니다.
 
-장치에서 Experience Cloud 라이브러리에 에셋을 업로드하려면 다음을 수행하십시오.
+장치에서 Experience Cloud 라이브러리에 자산을 업로드하려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 업로드를 선택합니다]**.
+1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 업로드]**&#x200B;를 선택합니다.
 
    ![](assets/library_new_folder_upload.png)
 
