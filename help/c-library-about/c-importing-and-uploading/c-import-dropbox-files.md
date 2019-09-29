@@ -4,8 +4,8 @@ seo-description: Dropbox에서 Adobe Experience Cloud 라이브러리로 파일�
 seo-title: Dropbox 파일을 Adobe Experience Cloud 라이브러리로 가져오기
 solution: Experience Manager
 title: Dropbox 파일을 Adobe Experience Cloud 라이브러리로 가져오기
-uuid: 4 B 688762-02 EE -4718-9 DA 8-55 B 9 A 59 C 5 FF 6
-translation-type: tm+mt
+uuid: 4b688762-02ee-4718-9da8-55b9a59c5ff6
+translation-type: ht
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 ---
@@ -21,22 +21,22 @@ Dropbox에서 Adobe Experience Cloud 라이브러리로 파일을 가져와 모�
 
 Dropbox 파일을 Experience Cloud 라이브러리로 가져오려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 가져오기를]**&#x200B;선택합니다.
+1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 가져오기]**&#x200B;를 선택합니다.
 
    ![](assets/library_new_folder_upload.png)
 
 1. **[!UICONTROL Dropbox]**&#x200B;를 선택합니다.
 
-   아직 없는 경우 Dropbox 계정에 로그인합니다.
+   아직 로그인하지 않은 경우 Dropbox 계정에 로그인합니다.
 
    ![](assets/library_import_db.png)
 
-1. Click **[!UICONTROL Next]**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 1. 가져올 파일을 하나 이상 선택합니다.
 
    ![](assets/library_import_db_files_selected.png)
 
-1. Click **[!UICONTROL Next]**.
+1. **[!UICONTROL 다음]**&#x200B;을 클릭합니다.
 1. 자산을 배치할 폴더를 선택합니다.
 
    >[!NOTE]
@@ -45,5 +45,5 @@ Dropbox 파일을 Experience Cloud 라이브러리로 가져오려면 다음을 
 
    ![](assets/library_import_db_folder_select.png)
 
-1. ****&#x200B;가져오기를 클릭합니다.
+1. **[!UICONTROL 가져오기]**&#x200B;를 클릭합니다.
 
