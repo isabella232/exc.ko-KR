@@ -10,7 +10,7 @@ tutorials-title: Campaign Standard
 tutorials-url: https://helpx.adobe.com/kr/support/experience-cloud/core-services.html
 git-repo: https://github.com/AdobeDocs/exc.en
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 ---
@@ -33,7 +33,7 @@ metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 �
 | tutorials-url | 비디오 튜토리얼 — Helpx 튜토리얼 또는 KT 튜토리얼 링크 |
 | mini-toc-levels | 오른쪽 레일에 나타나는 제목 수준 개수를 결정합니다. 기본값은 2입니다. |
 | git-repo | 공동 작업 리포지토리 위치를 지정합니다. 공개된 문서에 github.com 미러링 사용 |
-| index | 소프트 론치에 대해 index=no 설정 |
+| index | 소프트 실행에 index=no 설정 |
 
 TOC.md 파일에서
 
