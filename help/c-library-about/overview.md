@@ -1,12 +1,9 @@
 ---
 description: Adobe Experience Cloud 라이브러리는 Adobe Experience Cloud 솔루션에서 자산을 저장, 검색 및 선택할 수 있는 범용 및 중앙 집중식 경험입니다.
-seo-description: Adobe Experience Cloud 라이브러리는 Adobe Experience Cloud 솔루션에서 자산을 저장, 검색 및 선택할 수 있는 범용 및 중앙 집중식 경험입니다.
-seo-title: Adobe Experience Cloud 라이브러리
-solution: Experience Manager
 title: Adobe Experience Cloud 라이브러리
 uuid: 507e28c7-d8b7-42ac-82d4-caf7c16bdd3b
-translation-type: ht
-source-git-commit: 2bcf89a108df9360476478703a36ad7783b736db
+translation-type: tm+mt
+source-git-commit: 12f34b6ab4e0e95356e1824af9bf37561e19b2b6
 
 ---
 
