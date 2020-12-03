@@ -5,8 +5,11 @@ seo-title: Adobe Experience Cloud 라이브러리로 Creative Cloud 파일 가�
 solution: Experience Manager
 title: Adobe Experience Cloud 라이브러리로 Creative Cloud 파일 가져오기
 uuid: 184632df-7084-4db8-a4d6-c372ab9764c9
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 98%
 
 ---
 
@@ -21,7 +24,7 @@ Creative Cloud의 파일을 Adobe Experience Cloud 라이브러리로 가져와 
 
 Creative Cloud 파일을 Experience Cloud 라이브러리로 가져오려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 가져오기]**&#x200B;를 선택합니다.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
