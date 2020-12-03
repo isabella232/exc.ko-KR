@@ -5,8 +5,11 @@ seo-title: Dropbox 또는 Creative Cloud 계정 변경
 solution: Experience Manager
 title: Dropbox 또는 Creative Cloud 계정 변경
 uuid: bc8c9cce-a543-42cc-81cd-b9995f26c8d4
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -19,7 +22,7 @@ Dropbox 또는 Creative Cloud 계정에 로그인하면 로그아웃하거나 �
 
 다른 Dropbox 또는 Creative Cloud 계정으로 전환하려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 가져오기]**&#x200B;를 선택합니다.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Import]**.
 
    ![](assets/library_new_folder_upload.png)
 
