@@ -5,8 +5,11 @@ seo-title: 장치에서 자산 업로드
 solution: Experience Manager
 title: 장치에서 자산 업로드
 uuid: 77b608b3-b588-4eec-a2f9-a3e4d2e6d44f
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '95'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +20,7 @@ source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 
 장치에서 Experience Cloud 라이브러리에 자산을 업로드하려면 다음을 수행하십시오.
 
-1. **[!UICONTROL 새로 만들기]** &gt; **[!UICONTROL 업로드]**&#x200B;를 선택합니다.
+1. Select **[!UICONTROL New]** > **[!UICONTROL Upload]**.
 
    ![](assets/library_new_folder_upload.png)
 
