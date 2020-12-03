@@ -5,8 +5,11 @@ seo-title: 휴지통으로 이동된 자산을 영구적으로 삭제
 solution: Experience Manager
 title: 휴지통으로 이동된 자산을 영구적으로 삭제
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +27,7 @@ Adobe Experience Cloud 라이브러리에서 휴지통으로 이동된 자산을
    ![](assets/library_general_trashed_items.png)
 
 1. 영구적으로 삭제할 항목을 하나 이상 클릭합니다.
-1. **[!UICONTROL 추가 정보 &gt; 영구 삭제]**&#x200B;를 클릭합니다.
+1. **[!UICONTROL 추가 정보 > 영구 삭제]**&#x200B;를 클릭합니다.
 
    ![](assets/library_restore_perm_delete.png)
 
