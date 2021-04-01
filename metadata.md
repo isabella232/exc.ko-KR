@@ -1,17 +1,20 @@
 ---
-cloud: experience-cloud
-product: 학습 및 지원
+cloud: Experience Cloud
+product: Learn & Support
 solution-title: Experience Cloud 핵심 서비스
 solution-hub-url: https://helpx.adobe.com/kr/support/experience-cloud/core-services.html
 solution-icon: help/assets/experience-cloud-logo-24.png
 getting-started-title: 시작하기
 getting-started-url: https://helpx.adobe.com/kr/experience-cloud-core-services/get-started.html
 tutorials-title: Campaign Standard
-tutorials-url: https://helpx.adobe.com/kr/support/experience-cloud/core-services.html
-git-repo: https://github.com/AdobeDocs/exc.en
+tutorials-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/exc.ko-KR
 index: false
-translation-type: ht
-source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
+translation-type: tm+mt
+source-git-commit: ec443c8831a15c9c0274d1fcad8e83e920f43f08
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 100%
 
 ---
 
@@ -20,7 +23,7 @@ source-git-commit: 92bafe6fbb79182c3cc9fad2f95e13b56eb115e9
 
 # 내부용 메타데이터
 
-metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 콘텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
+metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 전달되는 리포지토리 수준 메타데이터가 포함되어 있습니다. 모든 사용 안내서를 위한 metadata.md 컨텐츠를 변경하려면 TOC.md 파일에서 이 작업을 수행합니다.
 
 | 메타데이터 | 기능 |
 |--- |--- |
@@ -33,7 +36,7 @@ metadata.md 파일에는 리포지토리의 사용 안내서 TOC.md 파일에 �
 | tutorials-url | 비디오 튜토리얼 — Helpx 튜토리얼 또는 KT 튜토리얼 링크 |
 | mini-toc-levels | 오른쪽 레일에 나타나는 제목 수준 개수를 결정합니다. 기본값은 2입니다. |
 | git-repo | 공동 작업 리포지토리 위치를 지정합니다. 공개된 문서에 github.com 미러링 사용 |
-| index | 소프트 실행에 index=no 설정 |
+| 색인 | 소프트 출시에 대해 index=no 설정 |
 
 TOC.md 파일에서
 
