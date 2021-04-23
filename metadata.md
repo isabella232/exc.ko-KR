@@ -2,9 +2,9 @@
 cloud: Experience Cloud
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.ko-KR
 index: false
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
 ht-degree: 100%
 
