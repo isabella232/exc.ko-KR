@@ -1,12 +1,14 @@
 ---
 cloud: Experience Cloud
+product: experience cloud
+solution: Experience Cloud
+type: Documentation
 git-repo: https://git.corp.adobe.com/AdobeDocs/exc.ko-KR
 index: false
-translation-type: ht
-source-git-commit: 57493b674fb5cce16291e881596cc3449bbc1665
-workflow-type: ht
-source-wordcount: '157'
-ht-degree: 100%
+source-git-commit: 6db89e7ff9957afb7749ca4e8ccd5ca6dd9aca33
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
