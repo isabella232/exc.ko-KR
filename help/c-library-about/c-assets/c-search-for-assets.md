@@ -1,20 +1,19 @@
 ---
 description: Adobe Experience Cloud 라이브러리에서 자산을 검색하여 조직 또는 특정 폴더에서 자산을 찾을 수 있습니다.
-seo-description: Adobe Experience Cloud 라이브러리에서 자산을 검색하여 조직 또는 특정 폴더에서 자산을 찾을 수 있습니다.
-seo-title: 자산 검색
+seo-description: Search for assets in the Adobe Experience Cloud Library to find assets across the organization or in a specific folder.
+seo-title: Search for Assets
 solution: Experience Manager
 title: 자산 검색
 uuid: 882ff4db-5bca-456c-888c-220c70eadce7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '65'
 ht-degree: 100%
 
 ---
 
 
-# 자산 검색{#search-for-assets}
+# 에셋 검색{#search-for-assets}
 
 Adobe Experience Cloud 라이브러리에서 자산을 검색하여 조직 또는 특정 폴더에서 자산을 찾을 수 있습니다.
 

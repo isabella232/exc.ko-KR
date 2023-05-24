@@ -1,14 +1,13 @@
 ---
 description: Adobe Experience Cloud 라이브러리의 다양한 도구 간에 자산을 관리하여 손쉽게 세부 정보와 버전을 찾아 자산에 대한 작업을 수행할 수 있습니다.
-seo-description: Adobe Experience Cloud 라이브러리의 다양한 도구 간에 자산을 관리하여 손쉽게 세부 정보와 버전을 찾아 자산에 대한 작업을 수행할 수 있습니다.
-seo-title: 자산
+seo-description: Manage assets across tools in the Adobe Experience Cloud Library to easily find details and versions and take actions on assets.
+seo-title: Assets
 solution: Experience Manager
 title: 자산
 uuid: dcb38464-a90e-45f8-8ff1-0881f31d46ac
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '95'
 ht-degree: 100%
 
 ---

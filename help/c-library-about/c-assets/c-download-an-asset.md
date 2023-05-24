@@ -1,14 +1,13 @@
 ---
 description: Adobe Experience Cloud 라이브러리에서 자산을 다운로드할 수 있습니다.
-seo-description: Adobe Experience Cloud 라이브러리에서 자산을 다운로드할 수 있습니다.
-seo-title: 자산 다운로드
+seo-description: You can download an asset in the Adobe Experience Cloud Library.
+seo-title: Download an Asset
 solution: Experience Manager
 title: 자산 다운로드
 uuid: f38ecdc5-e0de-46f5-bfbc-fb45cabedac3
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '49'
 ht-degree: 100%
 
 ---

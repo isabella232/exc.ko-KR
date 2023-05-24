@@ -1,14 +1,13 @@
 ---
 description: Adobe Experience Cloud 라이브러리에서 휴지통으로 이동된 자산을 복원할 수 있습니다.
-seo-description: Adobe Experience Cloud 라이브러리에서 휴지통으로 이동된 자산을 복원할 수 있습니다.
-seo-title: 휴지통으로 이동된 자산 복원
+seo-description: You can restore an asset you trashed in the Adobe Experience Cloud Library.
+seo-title: Restore a Trashed Asset
 solution: Experience Manager
 title: 휴지통으로 이동된 자산 복원
 uuid: 5cf60e36-99fb-4335-af9d-2224342c382b
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---

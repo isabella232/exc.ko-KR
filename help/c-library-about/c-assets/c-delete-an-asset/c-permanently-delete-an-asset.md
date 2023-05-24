@@ -1,14 +1,13 @@
 ---
 description: Adobe Experience Cloud 라이브러리에서 휴지통으로 이동된 자산을 영구적으로 삭제할 수 있습니다.
-seo-description: Adobe Experience Cloud 라이브러리에서 휴지통으로 이동된 자산을 영구적으로 삭제할 수 있습니다.
-seo-title: 휴지통으로 이동된 자산을 영구적으로 삭제
+seo-description: You can permanently delete a trashed asset in the Adobe Experience Cloud Library.
+seo-title: Permanently Delete a Trashed Asset
 solution: Experience Manager
 title: 휴지통으로 이동된 자산을 영구적으로 삭제
 uuid: 593713aa-5b86-4474-a462-c1173fdf8dc7
-translation-type: tm+mt
 source-git-commit: 78f62e51e07df88252e6e54ec8f0b620d739e07b
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '107'
 ht-degree: 100%
 
 ---
